@@ -10,3 +10,6 @@ Dentro de screens creas un package `states` y dentro de este pegas el `HomeState
 En screens pegas el `HomeScreen.kt`
 
 Dentro de `utils/models` pegas el `PostResponse.kt`
+
+Los archivos en la carpetas xml e images los pegas en el `res/drawable`
+
